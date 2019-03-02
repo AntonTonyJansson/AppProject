@@ -6,7 +6,7 @@
 #
 # WARNING! All changes made in this file will be lost!
 
-# Testing new branch, second try
+# Testing new branch, third try
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 import os
